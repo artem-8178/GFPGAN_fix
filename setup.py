@@ -90,7 +90,7 @@ if __name__ == '__main__':
         author='Xintao Wang',
         author_email='xintao.wang@outlook.com',
         keywords='computer vision, pytorch, image restoration, super-resolution, face restoration, gan, gfpgan',
-        url='https://github.com/TencentARC/GFPGAN',
+        url='https://github.com/artem-8178/GFPGAN_fix.git',
         include_package_data=True,
         packages=find_packages(exclude=('options', 'datasets', 'experiments', 'results', 'tb_logger', 'wandb')),
         classifiers=[
