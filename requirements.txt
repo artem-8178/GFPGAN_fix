@@ -1,4 +1,4 @@
-basicsr>=1.4.2
+git+https://github.com/artem-8178/BasicSR_fix.git
 facexlib>=0.2.5
 lmdb
 numpy
