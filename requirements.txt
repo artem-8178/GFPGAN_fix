@@ -1,4 +1,3 @@
-git+https://github.com/artem-8178/BasicSR_fix.git
 facexlib>=0.2.5
 lmdb
 numpy
@@ -10,3 +9,6 @@ torch>=1.7
 torchvision
 tqdm
 yapf
+
+git+https://github.com/artem-8178/BasicSR_fix.git
+
