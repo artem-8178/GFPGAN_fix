@@ -10,5 +10,5 @@ torchvision
 tqdm
 yapf
 
-git+https://github.com/artem-8178/BasicSR_fix.git
+git+https://github.com/artem-8178/BasicSR_fix.git#egg=basicsr
 
